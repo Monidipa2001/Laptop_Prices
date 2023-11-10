@@ -133,6 +133,16 @@ GROUP BY
   Price
 HAVING COUNT(*) > 1;
 
+SELECT Company, Price, SUM(Price) OVER (ORDER BY Company) AS cumulative_price
+FROM project.laptop_prices;
+
+WITH laptop_price AS (
+  SELECT Company, TypeName
+  FROM project.laptop_prices
+  WHERE Company = 'Apple'
+)
+SELECT AVG(price) AS avg_price
+FROM project.laptop_prices;
 
 
 
