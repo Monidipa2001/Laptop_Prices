@@ -19,16 +19,16 @@ Specifications: Powerful processors, dedicated graphics cards, ample RAM, and hi
 Usage: Designed for gaming, professional content creation, and resource-intensive applications.
 
 Factors Influencing Prices:
-Brand: Established brands tend to be pricier but often offer better build quality and support.
-Specifications: Higher RAM, faster processors, dedicated graphics, and premium features contribute to higher prices.
-Purpose: Gaming laptops and those designed for content creation generally come with a higher price tag.
-Market Trends: Prices can fluctuate based on market demand, availability, and technological advancements.
+1.Brand: Established brands tend to be pricier but often offer better build quality and support.
+2.Specifications: Higher RAM, faster processors, dedicated graphics, and premium features contribute to higher prices.
+3.Purpose: Gaming laptops and those designed for content creation generally come with a higher price tag.
+4.Market Trends: Prices can fluctuate based on market demand, availability, and technological advancements.
 
 Tips for Buyers:
 
-Research: Compare prices, read reviews, and consider user feedback before making a purchase.
-Future-Proofing: Invest in a laptop that meets your current needs and has some room for future upgrades.
-Warranty and Support: Check the warranty period and the availability of service centers for the chosen brand.
+1.Research: Compare prices, read reviews, and consider user feedback before making a purchase.
+2.Future-Proofing: Invest in a laptop that meets your current needs and has some room for future upgrades.
+3.Warranty and Support: Check the warranty period and the availability of service centers for the chosen brand.
 
 # Laptop_Prices
 
